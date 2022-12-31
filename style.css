@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Roboto:ital,wght@0,100;0,300;1,100;1,400&display=swap');
+
+    
+
+body{font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    color: white;
+    font-size: x-large;
+
+}
+i{margin-left: 70%;}
+.q{margin: 5%;}
+.w{margin-left: 1%;}
+.fas{color: blue;
+    
+}
+#something{display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+border: 1px solid red;
+margin-left: 30%;
+width: 30vw;
+height: 20vh;
+visibility: hidden;
+background-color: white;
+color: rgba(235, 100, 38, 0.938);
+padding: 3%;
+border-radius: 5px;
+font-size: larger;
+font-weight: bolder;
+position: fixed;
+top: 20%;
+
+}
+.ab{width: 7vw;
+height: 5vh;
+background-color: rgba(235, 100, 38, 0.938);
+color: white;
+border: none;
+border-radius: 5px;
+font-size: large;
+}
+.ba{width: 7vw;
+    height: 5vh;
+    border-radius: 2px;
+    background-color: rgba(235, 100, 38, 0.938);
+color: white;
+border: none;
+border-radius: 5px;
+font-size: large;
+    
+}
+/* #main{position: relative;} */
+/* #something{} */
+
+    
+#tt{width: 20vw;
+    height: 5vh;
+    margin: 2%; }
+    
+    #imagine{display: flex;
+    flex-wrap: wrap;
+    font-size: 1% ;
+}
+    .child{width: 20vw;
+    height: 50vh;
+color:rgba(235, 100, 38, 0.938);
+background-color: white ;
+font-size: large;
+/* font-weight: bold; */
+text-align: center;
+margin: 2%;
+border-radius: 5%;
+/* box-shadow: 1%; */
+border: 1px solid rgba(235, 100, 38, 0.938);
+position: relative;
+}
+.fa-trash-can{position: absolute;
+top: 90%;
+left: 5%;
+
+color: brown;}
+.fa-circle-plus{position: absolute;
+top: 90%;
+left: 18%;}
+#imp{display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid red;
+    margin-left: 30%;
+    width: 30vw;
+    height: 20vh;
+    visibility: hidden;
+    background-color: white;
+    color: rgba(235, 100, 38, 0.938);
+    padding: 3%;
+    border-radius: 5px;
+    font-size: larger;
+    font-weight: bolder;
+    position: fixed;
+    top: 20%;
+    
+    }
+    .op{width: 7vw;
+        height: 5vh;
+        border-radius: 2px;
+        background-color: rgba(235, 100, 38, 0.938);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: large;
+        
+    }
+    #yy{width: 20vw;
+        height: 5vh;
+        margin: 2%;}
+        li{color: cadetblue;
+        
+    font-weight: bold;
+}
+li:hover {text-decoration: line-through;}
+    .child{
+    font-weight: bolder;
+padding: 1%;}
+
